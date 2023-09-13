@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Weston
 - 👀 I’m interested in data building 
-- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate with like minds 
 - 📫 How to reach me realdofie@gmail.com 
 
